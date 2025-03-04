@@ -1,5 +1,1 @@
-# immersive-audio-guide
-How can we identify best practices in Immersive Audio while recognizing that the application of Spatial Audio for immersive media is still evolving?
-This thoughtful and important question gets to the heart of a key challenge in the emerging immersive audio field.
-This document aims to collect and share current immersive audio production practices while acknowledging the field's rapidly evolving nature. Rather than presenting absolute rules, it oNers frameworks for decision-making and highlights considerations that have proven valuable in professional practice. As technologies and techniques continue to develop, these practices will evolve.
-Users of this guide are encouraged to think critically about how these approaches apply to their specific contexts and to contribute their own experiences to the growing body of knowledge in immersive audio. These are current observed practices rather than absolute rules, and as such, it will include version/date information to contextualize when these practices were documented.
+]
